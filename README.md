@@ -1,1 +1,177 @@
-# electra
+<h1 align="center">
+  <br>
+    <a href="https://www.vuethemes.org/theme/electra">
+  <img width=60% src="https://github.com/vuethemes/electra/master/VueThemes.png" alt="Vue Themes"></a> <br>
+  Electra
+  <br>
+</h1>
+
+<h4 align="center">A modern ecommerce site built with Vue.js and Tailwind CSS.</h4>
+
+<p align="center">
+  <a href="https://img.shields.io/badge/">
+    <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg"
+         alt="Dependencies">
+  </a>
+  <a href="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85"><img src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85"></a>
+  <a href="https://img.shields.io/badge/contributions-welcome-orange.svg">
+      <img src="https://img.shields.io/badge/contributions-welcome-orange.svg">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#download">Structure</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
+
+![screenshot](https://github.com/vuethemes/electra/master/electraVueThemes.gif)
+
+## Key Features
+
+* Hot Reload - Make changes, See changes
+  - Instantly see what your changes look like in the browser as you create them.
+* Vue Meta plugin for Search Engine Optimization  
+* [TailwindCSS](https://tailwindcss.com) Styling
+* Fully responsive
+* Customizable shopping cart 
+* One click Vercel/Netlify deployments
+* Full support 
+* Free updates  
+  - Get access to the first version today, plus new updates until we're out of ideas.
+
+
+## ## How To Use
+
+To run this application, you'll need to purchase the theme from [VueThemes](https://vuethemes.org/theme/electra) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Go into the repository
+$ cd electra-premium-vuethemes
+
+# Install dependencies
+$ npm install
+
+# Compiles and hot-reloads for development
+$ npm run serve
+
+# Compiles and minifies for production
+$ npm run build
+
+# Lints and fixes files
+$ npm run lint
+```
+
+## Download
+
+You can [download](https://vuethemes.org/theme/electra) the latest installable version of Electra.
+
+
+## Directory Structure
+
+We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
+
+┣ public/
+┃ ┣ favicon.ico
+┃ ┗ index.html
+┣ src/
+┃ ┣ assets/
+┃ ┃ ┣ css/
+┃ ┃ ┃ ┗ style.css
+┃ ┃ ┣ images/
+┃ ┃ ┣ videos/
+┃ ┣ components/
+┃ ┃ ┣ common/
+┃ ┃ ┃ ┣ Button.vue
+┃ ┃ ┃ ┣ CTA.vue
+┃ ┃ ┃ ┣ DoubleTextButton.vue
+┃ ┃ ┃ ┣ DrawerNav.vue
+┃ ┃ ┃ ┣ FooterSaleBox.vue
+┃ ┃ ┃ ┣ HeaderCart.vue
+┃ ┃ ┃ ┣ LimitedButton.vue
+┃ ┃ ┃ ┣ LogoBlack.vue
+┃ ┃ ┃ ┣ LogoWhite.vue
+┃ ┃ ┃ ┣ PopupPhone.vue
+┃ ┃ ┃ ┣ SectionDownArrow.vue
+┃ ┃ ┃ ┣ SidebarCartDrawer.vue
+┃ ┃ ┃ ┣ Socials.vue
+┃ ┃ ┃ ┣ TextButton.vue
+┃ ┃ ┃ ┣ ThemeFooter.vue
+┃ ┃ ┃ ┣ ThemeHeader.vue
+┃ ┃ ┃ ┗ ZipCodeBox.vue
+┃ ┃ ┣ sections/
+┃ ┃ ┃ ┣ AboutAccordionItem.vue
+┃ ┃ ┃ ┣ CompareKits.vue
+┃ ┃ ┃ ┣ CompareKitsItem.vue
+┃ ┃ ┃ ┣ ContactForm.vue
+┃ ┃ ┃ ┣ FaqAccordion.vue
+┃ ┃ ┃ ┣ HeroBanner.vue
+┃ ┃ ┃ ┣ HomeKitDetails.vue
+┃ ┃ ┃ ┣ HomeKitsDetailsItems.vue
+┃ ┃ ┃ ┣ HomeTextMessage.vue
+┃ ┃ ┃ ┣ InstagramFeed.vue
+┃ ┃ ┃ ┣ OrderAccordionItem.vue
+┃ ┃ ┃ ┣ OurFaq.vue
+┃ ┃ ┃ ┣ OurKits.vue
+┃ ┃ ┃ ┣ OurKitsItems.vue
+┃ ┃ ┃ ┣ OurMission.vue
+┃ ┃ ┃ ┣ OurStoryExpert.vue
+┃ ┃ ┃ ┣ OurStoryHero.vue
+┃ ┃ ┃ ┣ OurStoryStars.vue
+┃ ┃ ┃ ┣ PartnerAccordionItem.vue
+┃ ┃ ┃ ┣ PlpItems.vue
+┃ ┃ ┃ ┣ PlpProduct.vue
+┃ ┃ ┃ ┣ ProductAccordionItem.vue
+┃ ┃ ┃ ┣ TakeQuiz.vue
+┃ ┃ ┃ ┗ TextUs.vue
+┃ ┃ ┗ sliders/
+┃ ┃ ┃ ┣ BragbarSlider.vue
+┃ ┃ ┃ ┣ CollectionSlider.vue
+┃ ┃ ┃ ┣ FaqContentSlider.vue
+┃ ┃ ┃ ┣ FaqSlider.vue
+┃ ┃ ┃ ┣ InstagramSlider.vue
+┃ ┃ ┃ ┣ OurStorySlider.vue
+┃ ┃ ┃ ┗ TestimonialSlider.vue
+┃ ┣ pages/
+┃ ┃ ┣ Collections.vue
+┃ ┃ ┣ Contact.vue
+┃ ┃ ┣ Faq.vue
+┃ ┃ ┣ Home.vue
+┃ ┃ ┣ OurStory.vue
+┃ ┃ ┗ ProductSingle.vue
+┃ ┣ store/
+┃ ┃ ┗ store.js
+┃ ┣ App.vue
+┃ ┣ main.js
+┃ ┗ routes.js
+┣ README.md
+┣ babel.config.js
+┣ package.json
+┣ postcss.config.js
+┗ tailwind.config.js
+
+
+## Credits
+
+This software uses the following open source packages:
+
+- [Vue](https://vuejs.org/)
+- [npm](https://www.npmjs.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Babel](https://babeljs.io/)
+
+## Related
+
+[Vue Themes](https://vuethemes.org) - Vue Themes
+
+## Support
+
+For additional support visit [vuethemes.org](https://vuethemes.org/).
+
+## Contributing
+
+If you're interested in contributing to Vue Themes, please reach out: [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/)
