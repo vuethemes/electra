@@ -43,7 +43,7 @@
 
 
 ## ✅&nbsp; Key Features
-
+* Easily integrates with payment processors
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
 * Easily manage/add/update products
