@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
     <a href="https://www.vuethemes.org/theme/electra">
-  <img width=60% src="https://github.com/vuethemes/electra/master/VueThemes.png" alt="Vue Themes"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/electra/blob/master/VueThemes.png" alt="Vue Themes"></a> <br>
   Electra
   <br>
 </h1>
@@ -29,7 +29,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://github.com/vuethemes/electra/master/electraVueThemes.gif)
+![screenshot](https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif)
 
 ## Key Features
 
