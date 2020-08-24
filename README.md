@@ -52,6 +52,7 @@
 * Vue Meta plugin for search engine optimization  
 * Customizable shopping cart 
 * Optimized with clean code and organized structure
+* PostCSS for increased code readability
 * Component driven development 
 * One click Vercel/Netlify deployments
 * Free updates  
