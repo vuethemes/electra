@@ -58,7 +58,7 @@
 * Free updates  
   - Get access to the first version today, plus new updates until we're out of ideas.
 * World class support by us! 
-  - Reach out any time we are here to help! 
+  - Reach out any time we are here to help!
 
 
 ## 🚀&nbsp; How To Use
