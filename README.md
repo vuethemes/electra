@@ -42,23 +42,24 @@
 ![screenshot](https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif)
 
 
-## ✅&nbsp; Key Features
-* Easily integrates with payment processors
-* Hot Reload - Make changes, See changes
-  - Instantly see what your changes look like in the browser as you create them.
-* Easily manage/add/update products
-  - Data is organized in one store.js file
-* Tailwind CSS styling
-* Vue Meta plugin for search engine optimization  
-* Customizable shopping cart 
-* Optimized with clean code and organized structure
-* PostCSS for increased code readability
-* Component driven development 
-* One click Vercel/Netlify deployments
-* Free updates  
-  - Get access to the first version today, plus new updates until we're out of ideas.
-* World class support by us! 
-  - Reach out any time we are here to help! 
+## Key Features
+✅&nbsp; Easily integrates with payment processors
+✅&nbsp; Hot Reload - Make changes, See changes
+✅&nbsp; Instantly see what your changes look like in the browser as you create them.
+✅&nbsp; Easily manage/add/update products
+✅&nbsp; Product data is organized in one store.js file
+✅&nbsp; Tailwind CSS styling
+✅&nbsp; Vue Meta plugin for search engine optimization  
+✅&nbsp; Customizable shopping cart 
+✅&nbsp; Optimized with clean code and organized structure
+✅&nbsp; PostCSS for increased code readability
+✅&nbsp; Component driven development 
+✅&nbsp; Fast Lighthouse scores
+✅&nbsp; One click Vercel/Netlify deployments
+✅&nbsp; Free updates  
+✅&nbsp; Get access to the first version today, plus new updates until we're out of ideas.
+✅&nbsp; World class support by us! 
+✅&nbsp; Reach out any time we are here to help! 
 
 
 ## 🚀&nbsp; How To Use
