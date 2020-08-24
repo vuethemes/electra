@@ -182,6 +182,7 @@ This software uses the following open source packages:
 - [npm](https://www.npmjs.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Babel](https://babeljs.io/)
+- [PostCSS](https://postcss.org/)
 
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
