@@ -46,16 +46,18 @@
 
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
-* Update products and manage data in one store.js file
-* [TailwindCSS](https://tailwindcss.com) Styling
-* Vue Meta plugin for Search Engine Optimization  
+* Easily manage/add/update products
+  - Data is organized in one store.js file
+* Tailwind CSS styling
+* Vue Meta plugin for search engine optimization  
 * Customizable shopping cart 
 * Optimized with clean code and organized structure
 * Component driven development 
 * One click Vercel/Netlify deployments
-* World class support by us! Reach out any time
 * Free updates  
   - Get access to the first version today, plus new updates until we're out of ideas.
+* World class support by us! 
+  - Reach out any time we are here to help! 
 
 
 ## 🚀&nbsp; How To Use
@@ -171,11 +173,11 @@ We've tried our best to develop this theme using a logical component driven stru
 </pre>
 
 
-## Credits
+## 👍&nbsp; Credits
 
 This software uses the following open source packages:
 
-- [Vue](https://vuejs.org/)
+- [Vue.js](https://vuejs.org/)
 - [npm](https://www.npmjs.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Babel](https://babeljs.io/)
@@ -196,6 +198,6 @@ Feel free to file a new issue with a respective title and description on the vue
 You are free to use Electra for your personal or client projects. For more license information visit [vuethemes.org](https://vuethemes.org/).
 
 
-## ❤️&nbsp; Contributing & Partnerships
+## 💚&nbsp; Contributing & Partnerships
 
 Love building with Vue.js? A big part of what makes Vue Themes great is each and every one of you in the community. Your contributions enrich the Vue Themes experience and make it better every day. We welcome all contributions from you in the community, and would be thrilled to amplify your voice. Contributions are not limited to code, and can take all shapes and forms: Your wonderful Vue.js website, starter, UI components, blog posts and anything else you can think of! Please submit your name and submission info ex. GitHub repository/post/content url to [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/) with the subject line: “VUE THEMES SUBMISSION”. Feel free to reach out to us if you have any questions about contributing! 
