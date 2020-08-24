@@ -23,10 +23,12 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#download">Structure</a> •
+  <a href="#structure">Structure</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#support">Support</a> •
+  <a href="#license">License</a> •
+  <a href="#contributing">Contributing</a>
 </p>
 
 ![screenshot](https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif)
@@ -71,7 +73,7 @@ $ npm run lint
 You can [download](https://vuethemes.org/theme/electra) the latest installable version of Electra.
 
 
-## Directory Structure
+## Structure
 
 We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
 
@@ -166,12 +168,16 @@ This software uses the following open source packages:
 
 ## Related
 
-[Vue Themes](https://vuethemes.org) - Vue Themes
+[Vue Themes](https://vuethemes.org/premium-themes) - Vue Themes
 
 ## Support
 
 For additional support visit [vuethemes.org](https://vuethemes.org/).
 
-## Contributing
+## License
 
-If you're interested in contributing to Vue Themes, please reach out: [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/)
+For license information visit [vuethemes.org](https://vuethemes.org/).
+
+## Contributing & Partnerships
+
+If you're interested in contributing or partnering with us, please reach out: [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/)
