@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Electra is a modern ecommerce site built with Vue.js and Tailwind CSS. ✨ We made it easy to start taking action with organized directory structure and component driven development. Optimized and structured for junior devs to look like senior devs 💯 Have a look at the official Vue Themes website for a comprehensive list of Vue Themes, features, core values and use cases.</h4>
+<h4 align="center">Electra is a modern ecommerce site built with Vue.js and Tailwind CSS. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development. Optimized and structured for junior devs to look like senior devs 💯&nbsp; Have a look at the official Vue Themes website for a comprehensive list of Vue Themes, features, core values and use cases.</h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
@@ -185,7 +185,7 @@ This software uses the following open source packages:
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
 
-You can reach out to us anytime for support! We are happy to help. [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org).
+You can reach out to us anytime for support! We are happy to help [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org).
 
 
 ## 🤝&nbsp; Found a bug? Missing a specific feature?
