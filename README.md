@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A modern ecommerce site built with Vue.js and Tailwind CSS.</h4>
+<h4 align="center">A modern ecommerce site built with Vue.js and Tailwind CSS. We made it easy to start taking action with organized directory structure and component driven development. Optimized and structured for junior devs to look like senior devs.</h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
@@ -37,12 +37,14 @@
 
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
-* Vue Meta plugin for Search Engine Optimization  
+* Update products and manage data in one store.js file
 * [TailwindCSS](https://tailwindcss.com) Styling
-* Fully responsive
+* Vue Meta plugin for Search Engine Optimization  
 * Customizable shopping cart 
+* Optimized with clean code and organized structure
+* Component driven development 
 * One click Vercel/Netlify deployments
-* Full support 
+* World class support by us! Reach out any time
 * Free updates  
   - Get access to the first version today, plus new updates until we're out of ideas.
 
