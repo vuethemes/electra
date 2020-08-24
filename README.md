@@ -62,7 +62,7 @@
 
 ## 🚀&nbsp; How To Use
 
-To run this application, you'll need to purchase the theme from [VueThemes](https://vuethemes.org/theme/electra) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/electra) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Go into the repository
@@ -84,7 +84,7 @@ $ npm run lint
 
 ## 💻&nbsp; Download
 
-You can [download](https://vuethemes.org/theme/electra) the latest installable version of Electra.
+Here is where you can [download](https://vuethemes.org/theme/electra) the latest installable version of Electra.
 
 
 ## 🌲&nbsp; Structure
@@ -185,7 +185,7 @@ This software uses the following open source packages:
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
 
-You can reach out to us anytime for support! We are happy to help. [vuethemes.org](https://vuethemes.org/).
+You can reach out to us anytime for support! We are happy to help. [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org).
 
 
 ## 🤝&nbsp; Found a bug? Missing a specific feature?
@@ -195,7 +195,7 @@ Feel free to file a new issue with a respective title and description on the vue
 
 ## 📘&nbsp; License
 
-You are free to use Electra for your personal or client projects. For more license information visit [vuethemes.org](https://vuethemes.org/).
+You are free to use Electra for your personal or client projects. For more license information visit [our website](https://vuethemes.org/).
 
 
 ## 💚&nbsp; Contributing & Partnerships
