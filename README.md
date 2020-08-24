@@ -79,6 +79,7 @@ You can [download](https://vuethemes.org/theme/electra) the latest installable v
 
 We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
 
+<pre>
 ┣ public/
 ┃ ┣ favicon.ico
 ┃ ┗ index.html
@@ -157,7 +158,7 @@ We've tried our best to develop this theme using a logical component driven stru
 ┣ package.json
 ┣ postcss.config.js
 ┗ tailwind.config.js
-
+</pre>
 
 ## Credits
 
