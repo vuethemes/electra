@@ -27,6 +27,13 @@
   </a>
 </p>
 
+<p align="center">
+  <br>
+    <a href="https://www.vuethemes.org/theme/electra">
+  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraLighthouse.gif" alt="Electra Lighthouse Scores"></a> <br>
+  Lighthouse Scores
+  <br>
+</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -39,13 +46,20 @@
   <a href="#contributing">Contributing</a>
 </p>
 
-![screenshot](https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif)
+
+<p align="center">
+  <br>
+    <a href="https://www.vuethemes.org/theme/electra">
+  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif" alt="Electra Preview"></a> <br>
+  <br>
+</p>
 
 
 ## ✅&nbsp; Key Features
 * Easily integrates with payment processors
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
+* Fast 90+ Lighthouse Scores
 * Easily manage/add/update products
   - Data is organized in one store.js file
 * Tailwind CSS styling
