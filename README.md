@@ -30,8 +30,9 @@
 <p align="center">
   <br>
     <a href="https://www.vuethemes.org/theme/electra">
-  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraLighthouse.gif" alt="Electra Lighthouse Scores"></a> <br>
-  Lighthouse Scores
+  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraLighthouse.gif" alt="Electra Lighthouse Scores gif"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraLighthouse.png" alt="Electra Lighthouse Scores"></a> <br>
+  90+ Lighthouse Scores
   <br>
 </p>
 
