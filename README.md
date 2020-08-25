@@ -27,16 +27,10 @@
   </a>
 </p>
 
-<p align="center">
-  <br>
-  <a href="https://www.vuethemes.org/theme/electra">
-  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemesLighthouseScreenshot.png" alt="Electra Lighthouse Scores"></a> <br>
-  <br>
-</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#lighthouse">90+ Lighthouse Scores</a> •
+  <a href="#lighthouse">Lighthouse</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#structure">Structure</a> •
@@ -51,6 +45,8 @@
   <br>
     <a href="https://www.vuethemes.org/theme/electra">
   <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif" alt="Electra Preview"></a> <br>
+  <br>
+  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemesLighthouseScreenshot.png" alt="Electra Lighthouse Scores"></a> <br>
   <br>
 </p>
 
