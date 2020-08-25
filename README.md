@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href="https://www.vuethemes.org/theme/electra">
+    <a href="https://vuethemes.org/theme/electra">
   <img width=60% src="https://github.com/vuethemes/electra/blob/master/VueThemes.png" alt="Vue Themes"></a> <br>
   Electra
   <br>
@@ -43,7 +43,7 @@
 
 <p align="center">
   <br>
-    <a href="https://www.vuethemes.org/theme/electra">
+    <a href="https://vuethemes.org/theme/electra">
   <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif" alt="Electra Preview"></a> <br>
   <br>
   <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemesLighthouseScreenshot.png" alt="Electra Lighthouse Scores"></a> <br>
@@ -74,7 +74,7 @@
 
 <p align="center">
   <br>
-    <a href="https://www.vuethemes.org/theme/electra">
+    <a href="https://vuethemes.org/theme/electra">
      <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemesLighthouseScreenshot.png" alt="Electra Lighthouse Score screenshot"></a> <br>
   <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraLighthouse.gif" alt="Electra Lighthouse Score gif"></a> <br>
   <br>
