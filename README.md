@@ -70,7 +70,7 @@
 * World class support by us! 
   - Reach out any time we are here to help!
 
-## 🏆&nbsp; Lighthouse Scores
+## 🏆&nbsp; Lighthouse 
 
 <p align="center">
   <br>
