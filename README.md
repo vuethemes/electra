@@ -74,11 +74,15 @@
 * World class support by us! 
   - Reach out any time we are here to help!
 
-## 90+ Lighthouse Scores
+## 🏆&nbsp; Lighthouse Scores
 
-[Lighthouse Screenshot](https://github.com/vuethemes/electra/blob/master/electraVueThemesLighthouseScreenshot.png)
-
-[Lighthouse Gif](https://github.com/vuethemes/electra/blob/master/electraLighthouse.gif)
+<p align="center">
+  <br>
+    <a href="https://www.vuethemes.org/theme/electra">
+     <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemesLighthouseScreenshot.png" alt="Electra Lighthouse Score screenshot"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif" alt="Electra Lighthouse Score gif"></a> <br>
+  <br>
+</p>
 
 
 ## 🚀&nbsp; How To Use
