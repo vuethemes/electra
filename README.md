@@ -46,8 +46,6 @@
     <a href="https://vuethemes.org/theme/electra">
   <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemes.gif" alt="Electra Preview"></a> <br>
   <br>
-  <img width=60% src="https://github.com/vuethemes/electra/blob/master/electraVueThemesLighthouseScreenshot.png" alt="Electra Lighthouse Scores"></a> <br>
-  <br>
 </p>
 
 
