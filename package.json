@@ -19,14 +19,13 @@
     "vue",
     "vuejs",
     "vuethemes",
+    "vue starter",
+    "vue template",
+    "awesome vue",
     "tailwind",
     "tailwindcss",
-    "ecommerce",
-    "javascript",
-    "frontend",
-    "template",
-    "theme",
-    "babel"
+    "tailwind starter",
+    "ecommerce"
   ],
   "scripts": {
     "serve": "vue-cli-service serve",
