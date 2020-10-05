@@ -1,0 +1,81 @@
+{
+  "name": "electra-vuethemes",
+  "description": "A modern template for Vue.js ecommerce website development",
+  "version": "1.1.1",
+  "homepage": "https://electra.vuethemes.org",
+  "author": {
+    "name": "Vue Themes",
+    "url": "https://vuethemes.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuethemes/electra.git"
+  },
+  "license": "https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz",
+  "bugs": {
+    "url": "https://github.com/vuethemes/electra/issues"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vuethemes",
+    "tailwind",
+    "tailwindcss",
+    "ecommerce",
+    "javascript",
+    "frontend",
+    "template",
+    "theme",
+    "babel"
+  ],
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "scrollmagic": "^2.0.7",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^5.4.5",
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-meta": "^2.4.0",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-router": "^3.3.4",
+    "vue-scrollmagic": "^1.2.0",
+    "vue-slick": "^1.1.15",
+    "vue-swiper": "^0.5.0",
+    "vue-tabs-component": "^1.5.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
