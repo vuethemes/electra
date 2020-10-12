@@ -104,91 +104,6 @@ $ npm run lint
 
 Here is where you can [download](https://vuethemes.org/theme/electra) the latest installable version of Electra.
 
-## 🌲&nbsp; Structure
-
-We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
-
-<pre>
-┣ public/
-┃ ┣ favicon.ico
-┃ ┗ index.html
-┣ src/
-┃ ┣ assets/
-┃ ┃ ┣ css/
-┃ ┃ ┃ ┗ style.css
-┃ ┃ ┣ images/
-┃ ┃ ┣ videos/
-┃ ┣ components/
-┃ ┃ ┣ common/
-┃ ┃ ┃ ┣ Button.vue
-┃ ┃ ┃ ┣ CTA.vue
-┃ ┃ ┃ ┣ DoubleTextButton.vue
-┃ ┃ ┃ ┣ DrawerNav.vue
-┃ ┃ ┃ ┣ FooterSaleBox.vue
-┃ ┃ ┃ ┣ HeaderCart.vue
-┃ ┃ ┃ ┣ LimitedButton.vue
-┃ ┃ ┃ ┣ LogoBlack.vue
-┃ ┃ ┃ ┣ LogoWhite.vue
-┃ ┃ ┃ ┣ PopupPhone.vue
-┃ ┃ ┃ ┣ SectionDownArrow.vue
-┃ ┃ ┃ ┣ SidebarCartDrawer.vue
-┃ ┃ ┃ ┣ Socials.vue
-┃ ┃ ┃ ┣ TextButton.vue
-┃ ┃ ┃ ┣ ThemeFooter.vue
-┃ ┃ ┃ ┣ ThemeHeader.vue
-┃ ┃ ┃ ┗ ZipCodeBox.vue
-┃ ┃ ┣ sections/
-┃ ┃ ┃ ┣ AboutAccordionItem.vue
-┃ ┃ ┃ ┣ CompareKits.vue
-┃ ┃ ┃ ┣ CompareKitsItem.vue
-┃ ┃ ┃ ┣ ContactForm.vue
-┃ ┃ ┃ ┣ FaqAccordion.vue
-┃ ┃ ┃ ┣ HeroBanner.vue
-┃ ┃ ┃ ┣ HomeKitDetails.vue
-┃ ┃ ┃ ┣ HomeKitsDetailsItems.vue
-┃ ┃ ┃ ┣ HomeTextMessage.vue
-┃ ┃ ┃ ┣ InstagramFeed.vue
-┃ ┃ ┃ ┣ OrderAccordionItem.vue
-┃ ┃ ┃ ┣ OurFaq.vue
-┃ ┃ ┃ ┣ OurKits.vue
-┃ ┃ ┃ ┣ OurKitsItems.vue
-┃ ┃ ┃ ┣ OurMission.vue
-┃ ┃ ┃ ┣ OurStoryExpert.vue
-┃ ┃ ┃ ┣ OurStoryHero.vue
-┃ ┃ ┃ ┣ OurStoryStars.vue
-┃ ┃ ┃ ┣ PartnerAccordionItem.vue
-┃ ┃ ┃ ┣ PlpItems.vue
-┃ ┃ ┃ ┣ PlpProduct.vue
-┃ ┃ ┃ ┣ ProductAccordionItem.vue
-┃ ┃ ┃ ┣ TakeQuiz.vue
-┃ ┃ ┃ ┗ TextUs.vue
-┃ ┃ ┗ sliders/
-┃ ┃ ┃ ┣ BragbarSlider.vue
-┃ ┃ ┃ ┣ CollectionSlider.vue
-┃ ┃ ┃ ┣ FaqContentSlider.vue
-┃ ┃ ┃ ┣ FaqSlider.vue
-┃ ┃ ┃ ┣ InstagramSlider.vue
-┃ ┃ ┃ ┣ OurStorySlider.vue
-┃ ┃ ┃ ┗ TestimonialSlider.vue
-┃ ┣ pages/
-┃ ┃ ┣ Collections.vue
-┃ ┃ ┣ Contact.vue
-┃ ┃ ┣ Faq.vue
-┃ ┃ ┣ Home.vue
-┃ ┃ ┣ OurStory.vue
-┃ ┃ ┗ ProductSingle.vue
-┃ ┣ store/
-┃ ┃ ┗ store.js
-┃ ┣ App.vue
-┃ ┣ main.js
-┃ ┗ routes.js
-┣ README.md
-┣ babel.config.js
-┣ package.json
-┣ postcss.config.js
-┗ tailwind.config.js
-</pre>
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
@@ -209,7 +124,7 @@ Feel free to file an [issue](https://github.com/vuethemes/electra/issues). If yo
 
 ## 📘&nbsp; License
 
-You are free to use SaaS for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
+You are free to use Electra for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
 
 ## 💚&nbsp; Contributing & Partnerships
 
