@@ -78,9 +78,12 @@
 
 ## 🚀&nbsp; How To Use
 
-To run this application, you'll need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/electra) and have [npm](http://npmjs.com)) and [Gridsome CLI tool](https://gridsome.org/docs) installed on your computer. From your command line:From your command line:
+To run this application, you'll first need to purchase the theme from [Vue Themes](https://vuethemes.org/theme/electra) and then run the following commands:
 
 ```bash
+# Install Vue cli
+$ npm install -g @vue/cli
+
 # Go into the repository
 $ cd electra-premium-vuethemes
 
